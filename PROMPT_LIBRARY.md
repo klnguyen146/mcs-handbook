@@ -145,6 +145,37 @@ When revising content:
 
 ---
 
+# Enhance Presentation Layer
+
+Review an existing chapter without changing its academic content.
+
+Improve only the presentation quality.
+
+Your objectives are:
+
+- improve visual hierarchy;
+- increase readability;
+- add educational figures where appropriate;
+- introduce callout boxes;
+- create Formula Boxes for important equations;
+- replace long paragraphs with tables or diagrams when beneficial;
+- add concept maps where appropriate;
+- improve chapter identity through memorable visuals;
+- maintain consistency with the project's Writing Standard.
+
+Do not change:
+
+- curriculum;
+- learning objectives;
+- technical correctness;
+- mathematical rigor.
+
+Only improve the educational presentation.
+
+The final result should resemble a professionally published graduate-level textbook.
+
+---
+
 # Final Principle
 
 Every prompt in this library should produce content that is:

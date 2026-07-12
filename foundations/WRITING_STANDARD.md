@@ -755,6 +755,192 @@ That is the standard of this handbook.
 
 ---
 
+---
+
+# Presentation Layer
+
+## Philosophy
+
+A chapter should not only be academically correct but also visually inviting and cognitively efficient.
+
+Readers should be able to:
+
+- quickly identify the main ideas;
+- distinguish intuition from formal definitions;
+- recognize important formulas immediately;
+- navigate long chapters without fatigue;
+- build strong visual memory of concepts.
+
+Presentation should improve comprehension rather than decorate the content.
+
+---
+
+## Information Hierarchy
+
+Every chapter should follow a clear visual hierarchy.
+
+```text
+Chapter
+    │
+    ▼
+Part
+    │
+    ▼
+Section
+    │
+    ▼
+Subsection
+    │
+    ▼
+Examples / Figures / Tables / Boxes
+```
+
+Readers should never feel lost within long chapters.
+
+---
+
+## Callout Boxes
+
+Use semantic callout boxes throughout the handbook.
+
+### 💡 Insight
+
+Highlight intuition, analogies, or engineering insights.
+
+Use when introducing a difficult concept.
+
+---
+
+### 📌 Remember
+
+Highlight definitions, important conclusions, or facts that should be memorized.
+
+---
+
+### ⚠️ Common Mistake
+
+Warn readers about frequent misconceptions.
+
+Explain why the misunderstanding occurs.
+
+---
+
+### 🔬 Research Connection
+
+Connect the topic to current research directions or landmark papers.
+
+---
+
+### 🛠 Engineering Practice
+
+Describe how the concept appears in real software systems.
+
+---
+
+### 🎯 Interview Perspective
+
+(Optional)
+
+Explain how the concept is commonly evaluated in technical interviews.
+
+---
+
+## Formula Boxes
+
+Important formulas should be visually separated from surrounding text.
+
+Each Formula Box should contain:
+
+- Formula
+- Meaning
+- Variable descriptions
+- Engineering interpretation
+- Common applications
+
+Readers should be able to locate important formulas quickly by scrolling.
+
+---
+
+## Visual Density
+
+Avoid large uninterrupted blocks of text.
+
+Aim for a balanced presentation using:
+
+- figures
+- diagrams
+- tables
+- code
+- formula boxes
+- callout boxes
+- comparison tables
+
+As a general guideline:
+
+- approximately 60–70% explanatory text;
+- approximately 30–40% visual or structured elements.
+
+---
+
+## Chapter Identity
+
+Every chapter should have at least one memorable visual element.
+
+Examples include:
+
+- Concept Map
+- Learning Roadmap
+- Architecture Diagram
+- Workflow
+- Timeline
+- Mathematical Dependency Graph
+
+A reader should remember the chapter through both its ideas and its visuals.
+
+---
+
+## Progressive Visualization
+
+When introducing complex mathematics or algorithms:
+
+Avoid presenting the final formula immediately.
+
+Instead:
+
+1. Build intuition.
+2. Introduce the components.
+3. Explain relationships.
+4. Present the complete formulation.
+5. Demonstrate practical usage.
+
+Visualization should evolve alongside understanding.
+
+---
+
+## Reading Rhythm
+
+Long chapters should alternate between:
+
+- explanation;
+- examples;
+- diagrams;
+- exercises;
+- summaries.
+
+Avoid more than three consecutive pages consisting only of dense explanatory text.
+
+A visually varied chapter is generally easier to study and review.
+
+---
+
+## Presentation Goal
+
+The presentation layer should make every chapter resemble a modern graduate-level textbook rather than lecture notes or AI-generated prose.
+
+Readers should feel guided through the material rather than overwhelmed by it.
+
+---
+
 # Related Documents
 
 - PROJECT.md
